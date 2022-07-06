@@ -8,5 +8,6 @@
 - 📫 How to reach me: 
   1. tanw0270@e.ntu.edu.sg
   2. https://www.youtube.com/channel/UC0thsyvziNP9EpD2BEdzHJg
-- 😄 Pronouns: Her/She chocolate 
-- ⚡ Fun fact: I am actually funny 
+  3. https://twz.netlify.app/
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: 
