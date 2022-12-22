@@ -11,3 +11,5 @@
   3. https://twz.netlify.app/
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I love travelling and extreme sports :D 
+
+The above attached is my Resume, feel free to take a look ! :D 
