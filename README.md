@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on building my own Online E-commerce website
 - 🌱 I’m currently learning backend development
 - 👯 I’m looking to collaborate on backend development 
-- 🤔 I’m looking for help with getting an internship :')
+- 🤔 I’m looking for like-minded aspiring entrepreneurs 
 - 💬 Ask me about any tech-related queries
 - 📫 How to reach me: 
   1. tanw0270@e.ntu.edu.sg
@@ -11,5 +11,3 @@
   3. https://twz.netlify.app/
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I love travelling and extreme sports :D 
-
-The above attached is my Resume, feel free to take a look ! :D 
